@@ -1,0 +1,2001 @@
+Name,Partner,Technologies,Industry,Salary,Processed_CV,Processed_CV_list
+0,Ricardo Martinez,BlueWave Logistics,"Java, Vue.js, Django",Food Industry,2014,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+1,Sofia Rodriguez,GreenLeaf Organics,"Vue.js, Spring Boot, Node.js",Renewable Energy,2408,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+2,Ana Gomez,BlueWave Logistics,"Spring Boot, Node.js",Renewable Energy,6204,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+3,Javier Ramirez,QuantumMed Innovations,"Django, Node.js",Technology,2258,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+4,Juan Perez,BlueWave Logistics,"SQLite, Django, PostgreSQL",Transportation & Logistics,5414,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+5,Carlos Fernandez,Stellar Financial,"Java, PostgreSQL, MongoDB",Food Industry,5320,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+6,Ana Gomez,EcoFusion Energy,"Express, PostgreSQL, Python, Java",Food Industry,7815,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+7,Javier Ramirez,EcoFusion Energy,"MySQL, Node.js, MongoDB",Agriculture,5627,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+8,Maria Lopez,QuantumMed Innovations,"Vue.js, PostgreSQL, Express",Finance,6396,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+9,Sofia Rodriguez,QuantumMed Innovations,"MySQL, Node.js, Vue.js, C++",Agriculture,7858,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+10,Ricardo Martinez,Stellar Financial,"Spring Boot, PostgreSQL",Automotive,6226,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+11,Javier Ramirez,EcoFusion Energy,"Angular, Vue.js, MySQL, Python",Food Industry,3727,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+12,Javier Ramirez,Stellar Financial,"SQLite, Spring Boot",Automotive,2196,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+13,Carlos Fernandez,BlueWave Logistics,"Spring Boot, Python, Vue.js, C++",Venture Capital,6183,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+14,Juan Perez,GreenLeaf Organics,"SQLite, Node.js",Aerospace,2218,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+15,Maria Lopez,GreenLeaf Organics,"Express, React, SQLite",Venture Capital,5907,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+16,Ricardo Martinez,BlueWave Logistics,"PostgreSQL, React, Django",Food Industry,5954,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+17,Sofia Rodriguez,Stellar Financial,"MySQL, SQLite",Healthcare,3252,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+18,Sofia Rodriguez,TechNova Solutions,"Java, SQLite, MongoDB, Angular",Renewable Energy,5453,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+19,Ana Gomez,AeroSpace Dynamics,"SQLite, Express, Django",Healthcare,4549,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+20,Maria Lopez,EcoFusion Energy,"PostgreSQL, MongoDB, MySQL, SQLite",Agriculture,1882,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+21,Ricardo Martinez,AeroSpace Dynamics,"C++, Java, Spring Boot, PostgreSQL",Technology,2303,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+22,Javier Ramirez,AeroSpace Dynamics,"Express, SQLite, Python",Technology,3906,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+23,Sofia Rodriguez,QuantumMed Innovations,"Vue.js, React, Node.js",Venture Capital,4662,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+24,Ana Gomez,AeroSpace Dynamics,"React, PostgreSQL",Renewable Energy,7851,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+25,Ana Gomez,GreenLeaf Organics,"Django, PostgreSQL, SQLite, Angular",Finance,7754,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+26,Juan Perez,BlueWave Logistics,"Node.js, C++, Django",Transportation & Logistics,1735,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+27,Ricardo Martinez,QuantumMed Innovations,"Java, Django",Renewable Energy,6835,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+28,Javier Ramirez,GreenLeaf Organics,"Java, MySQL",Finance,5639,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+29,Ricardo Martinez,BlueWave Logistics,"Vue.js, Express",Automotive,5315,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+30,Ricardo Martinez,BlueWave Logistics,"MongoDB, Python, Django",Aerospace,4270,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+31,Juan Perez,GreenLeaf Organics,"React, Django",Food Industry,7228,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+32,Carlos Fernandez,BlueWave Logistics,"Django, MySQL",Agriculture,7765,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+33,Sofia Rodriguez,BlueWave Logistics,"Angular, Python, MySQL",Technology,5848,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+34,Carlos Fernandez,AeroSpace Dynamics,"Java, PostgreSQL",Healthcare,1506,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+35,Maria Lopez,EcoFusion Energy,"MySQL, React, Node.js",Transportation & Logistics,4486,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+36,Ricardo Martinez,BlueWave Logistics,"SQLite, Python, Vue.js, PostgreSQL",Renewable Energy,5244,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+37,Ricardo Martinez,AeroSpace Dynamics,"MySQL, MongoDB, Python",Finance,6153,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+38,Javier Ramirez,GreenLeaf Organics,"Django, SQLite",Food Industry,7923,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+39,Javier Ramirez,EcoFusion Energy,"Vue.js, Angular",Venture Capital,7345,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+40,Carlos Fernandez,TechNova Solutions,"Java, C++, Node.js",Healthcare,5973,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+41,Javier Ramirez,EcoFusion Energy,"React, Spring Boot",Food Industry,5797,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+42,Javier Ramirez,GreenLeaf Organics,"MongoDB, Spring Boot, Vue.js, Django",Transportation & Logistics,3156,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+43,Juan Perez,GreenLeaf Organics,"PostgreSQL, Spring Boot, SQLite",Aerospace,7536,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+44,Carlos Fernandez,GreenLeaf Organics,"Spring Boot, Angular, Vue.js, Java",Automotive,2932,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+45,Maria Lopez,EcoFusion Energy,"Spring Boot, Vue.js",Renewable Energy,3592,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+46,Juan Perez,BlueWave Logistics,"MySQL, Angular",Technology,2061,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+47,Juan Perez,GreenLeaf Organics,"Spring Boot, Java, Angular, Express",Agriculture,1956,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+48,Maria Lopez,EcoFusion Energy,"PostgreSQL, Java",Renewable Energy,2765,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+49,Javier Ramirez,QuantumMed Innovations,"Angular, Python",Finance,3793,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+50,Juan Perez,TechNova Solutions,"Python, MySQL, MongoDB, Java",Transportation & Logistics,4669,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+51,Ricardo Martinez,BlueWave Logistics,"SQLite, PostgreSQL, Express, Django",Technology,5004,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+52,Sofia Rodriguez,EcoFusion Energy,"Spring Boot, MySQL, PostgreSQL, Python",Finance,2815,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+53,Sofia Rodriguez,EcoFusion Energy,"Django, MySQL",Technology,3994,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+54,Javier Ramirez,AeroSpace Dynamics,"Express, Java, Angular",Venture Capital,7370,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+55,Ana Gomez,Stellar Financial,"Node.js, Python, React",Transportation & Logistics,4260,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+56,Javier Ramirez,EcoFusion Energy,"PostgreSQL, React",Healthcare,6582,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+57,Maria Lopez,TechNova Solutions,"Angular, PostgreSQL, MongoDB, SQLite",Agriculture,3474,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+58,Javier Ramirez,GreenLeaf Organics,"Express, MongoDB, Spring Boot",Food Industry,2801,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+59,Ana Gomez,QuantumMed Innovations,"Django, Python, SQLite, MySQL",Renewable Energy,5186,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+60,Sofia Rodriguez,AeroSpace Dynamics,"Angular, Django",Aerospace,5238,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+61,Carlos Fernandez,GreenLeaf Organics,"SQLite, MongoDB",Automotive,3263,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+62,Maria Lopez,TechNova Solutions,"MySQL, Vue.js, React",Food Industry,2954,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+63,Juan Perez,Stellar Financial,"MongoDB, C++, Node.js, Django",Transportation & Logistics,3851,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+64,Ricardo Martinez,BlueWave Logistics,"C++, SQLite",Technology,6699,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+65,Sofia Rodriguez,BlueWave Logistics,"Django, Spring Boot, MySQL",Agriculture,5027,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+66,Maria Lopez,EcoFusion Energy,"React, Spring Boot",Food Industry,6826,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+67,Maria Lopez,AeroSpace Dynamics,"C++, Angular, SQLite, Django",Agriculture,6664,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+68,Maria Lopez,GreenLeaf Organics,"SQLite, C++, Angular, Node.js",Transportation & Logistics,4642,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+69,Javier Ramirez,GreenLeaf Organics,"Python, SQLite",Food Industry,7390,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+70,Ricardo Martinez,Stellar Financial,"Django, PostgreSQL, Node.js",Food Industry,2173,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+71,Ricardo Martinez,AeroSpace Dynamics,"PostgreSQL, Python, SQLite",Agriculture,3841,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+72,Ricardo Martinez,TechNova Solutions,"MongoDB, MySQL, Express, Django",Healthcare,5834,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+73,Maria Lopez,EcoFusion Energy,"MongoDB, SQLite, Spring Boot",Finance,2197,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+74,Carlos Fernandez,GreenLeaf Organics,"SQLite, MongoDB, Vue.js, Spring Boot",Food Industry,2856,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+75,Ana Gomez,Stellar Financial,"MySQL, SQLite, Django",Venture Capital,6103,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+76,Carlos Fernandez,TechNova Solutions,"C++, React, Spring Boot",Automotive,5330,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+77,Maria Lopez,GreenLeaf Organics,"Django, MongoDB",Agriculture,4582,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+78,Ricardo Martinez,QuantumMed Innovations,"Python, Node.js, SQLite, Java",Venture Capital,6945,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+79,Ana Gomez,TechNova Solutions,"Vue.js, React, C++, Django",Venture Capital,5663,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+80,Ricardo Martinez,AeroSpace Dynamics,"SQLite, MongoDB, Django, Vue.js",Healthcare,3047,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+81,Maria Lopez,EcoFusion Energy,"Python, SQLite",Renewable Energy,3105,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+82,Juan Perez,AeroSpace Dynamics,"Python, C++",Agriculture,6199,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+83,Maria Lopez,QuantumMed Innovations,"React, Java",Aerospace,7065,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+84,Ricardo Martinez,GreenLeaf Organics,"Python, Spring Boot, MongoDB",Finance,4484,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+85,Ana Gomez,BlueWave Logistics,"Python, C++",Transportation & Logistics,2372,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+86,Maria Lopez,GreenLeaf Organics,"Vue.js, Node.js, Python",Venture Capital,3067,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+87,Javier Ramirez,AeroSpace Dynamics,"SQLite, Python",Healthcare,5316,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+88,Juan Perez,BlueWave Logistics,"Angular, Java",Transportation & Logistics,2856,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+89,Ana Gomez,GreenLeaf Organics,"Node.js, Java, SQLite, PostgreSQL",Finance,3758,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+90,Maria Lopez,Stellar Financial,"Python, Node.js",Renewable Energy,5666,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+91,Carlos Fernandez,Stellar Financial,"Spring Boot, PostgreSQL",Food Industry,2561,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+92,Ana Gomez,TechNova Solutions,"Vue.js, MySQL, PostgreSQL",Transportation & Logistics,6735,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+93,Sofia Rodriguez,EcoFusion Energy,"Express, MongoDB",Automotive,6769,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+94,Javier Ramirez,BlueWave Logistics,"Spring Boot, Vue.js",Venture Capital,6205,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+95,Ricardo Martinez,TechNova Solutions,"C++, Vue.js",Renewable Energy,4012,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+96,Ana Gomez,BlueWave Logistics,"Spring Boot, C++, Vue.js, MongoDB",Finance,7158,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+97,Sofia Rodriguez,TechNova Solutions,"C++, Angular",Transportation & Logistics,6773,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+98,Ana Gomez,QuantumMed Innovations,"Spring Boot, C++, Express, Node.js",Finance,5885,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+99,Javier Ramirez,TechNova Solutions,"PostgreSQL, Express, Python, Angular",Technology,1714,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+100,Ricardo Martinez,TechNova Solutions,"C++, Python",Renewable Energy,4243,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+101,Javier Ramirez,Stellar Financial,"Node.js, Vue.js, Django, MySQL",Food Industry,5721,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+102,Sofia Rodriguez,TechNova Solutions,"Django, Spring Boot, Vue.js",Technology,6242,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+103,Ana Gomez,AeroSpace Dynamics,"PostgreSQL, Spring Boot, Vue.js, Node.js",Automotive,3831,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+104,Ana Gomez,Stellar Financial,"React, Angular, SQLite",Technology,3559,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+105,Ana Gomez,AeroSpace Dynamics,"MySQL, React, Express, MongoDB",Aerospace,2107,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+106,Ricardo Martinez,QuantumMed Innovations,"Vue.js, MongoDB, SQLite, Angular",Transportation & Logistics,6750,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+107,Ricardo Martinez,TechNova Solutions,"Node.js, Django, Spring Boot, MongoDB",Technology,6148,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+108,Javier Ramirez,AeroSpace Dynamics,"PostgreSQL, Spring Boot, Angular",Renewable Energy,4438,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+109,Maria Lopez,GreenLeaf Organics,"React, Express, Angular, MySQL",Food Industry,3217,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+110,Juan Perez,BlueWave Logistics,"Vue.js, PostgreSQL, Spring Boot",Renewable Energy,4417,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+111,Sofia Rodriguez,GreenLeaf Organics,"Angular, React, SQLite",Aerospace,5950,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+112,Juan Perez,QuantumMed Innovations,"Java, Python, MySQL, Spring Boot",Automotive,2591,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+113,Ricardo Martinez,AeroSpace Dynamics,"Spring Boot, Node.js, Express",Renewable Energy,6339,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+114,Ana Gomez,QuantumMed Innovations,"Angular, Node.js, Express, Vue.js",Venture Capital,4721,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+115,Juan Perez,EcoFusion Energy,"MongoDB, Express, Node.js, React",Technology,5930,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+116,Javier Ramirez,QuantumMed Innovations,"Node.js, MongoDB, C++, Python",Renewable Energy,3881,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+117,Carlos Fernandez,QuantumMed Innovations,"Spring Boot, Java",Renewable Energy,7334,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+118,Javier Ramirez,AeroSpace Dynamics,"Vue.js, Angular, React",Aerospace,5558,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+119,Carlos Fernandez,QuantumMed Innovations,"C++, SQLite, React",Technology,3934,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+120,Juan Perez,BlueWave Logistics,"Express, Spring Boot",Agriculture,3899,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+121,Carlos Fernandez,QuantumMed Innovations,"Java, Django, MySQL",Venture Capital,2794,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+122,Javier Ramirez,BlueWave Logistics,"MongoDB, SQLite, MySQL, Node.js",Renewable Energy,5348,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+123,Ana Gomez,BlueWave Logistics,"MySQL, Angular, Express, Node.js",Automotive,3400,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+124,Sofia Rodriguez,GreenLeaf Organics,"MongoDB, Java, C++",Aerospace,6834,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+125,Maria Lopez,AeroSpace Dynamics,"React, C++, SQLite, Express",Food Industry,5103,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+126,Juan Perez,EcoFusion Energy,"Angular, PostgreSQL",Agriculture,2874,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+127,Sofia Rodriguez,TechNova Solutions,"MongoDB, MySQL, PostgreSQL",Healthcare,2654,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+128,Sofia Rodriguez,GreenLeaf Organics,"C++, Python, MySQL, Angular",Food Industry,6760,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+129,Carlos Fernandez,QuantumMed Innovations,"MySQL, React",Automotive,7155,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+130,Carlos Fernandez,TechNova Solutions,"MongoDB, Java",Food Industry,2865,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+131,Ana Gomez,EcoFusion Energy,"C++, Vue.js",Finance,5864,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+132,Juan Perez,GreenLeaf Organics,"Java, MySQL",Automotive,2463,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+133,Ricardo Martinez,TechNova Solutions,"MySQL, Node.js, Vue.js",Aerospace,6498,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+134,Ricardo Martinez,GreenLeaf Organics,"React, SQLite, MySQL",Food Industry,7799,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+135,Sofia Rodriguez,AeroSpace Dynamics,"PostgreSQL, Java, Vue.js",Aerospace,4355,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+136,Sofia Rodriguez,BlueWave Logistics,"Java, Vue.js, Express",Technology,5976,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+137,Ricardo Martinez,GreenLeaf Organics,"Express, Java, Python, Node.js",Finance,2629,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+138,Javier Ramirez,AeroSpace Dynamics,"Express, Angular, Python, Spring Boot",Healthcare,3060,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+139,Sofia Rodriguez,EcoFusion Energy,"Spring Boot, C++",Renewable Energy,7298,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+140,Ana Gomez,TechNova Solutions,"Spring Boot, Python, C++",Transportation & Logistics,2945,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+141,Sofia Rodriguez,GreenLeaf Organics,"Vue.js, Django, Python",Transportation & Logistics,5165,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+142,Sofia Rodriguez,GreenLeaf Organics,"Spring Boot, C++, Express, SQLite",Aerospace,6261,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+143,Carlos Fernandez,TechNova Solutions,"Java, Spring Boot, C++, Express",Healthcare,2252,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+144,Ana Gomez,AeroSpace Dynamics,"Express, Node.js",Food Industry,1763,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+145,Carlos Fernandez,Stellar Financial,"React, SQLite, Express",Agriculture,7595,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+146,Juan Perez,AeroSpace Dynamics,"Vue.js, Java",Food Industry,6617,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+147,Ricardo Martinez,BlueWave Logistics,"React, Python, PostgreSQL, Vue.js",Aerospace,5390,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+148,Juan Perez,GreenLeaf Organics,"Django, Java, PostgreSQL, Spring Boot",Aerospace,3420,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+149,Maria Lopez,Stellar Financial,"Django, Spring Boot, Angular",Venture Capital,2282,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+150,Ana Gomez,Stellar Financial,"Express, Python, MySQL, Spring Boot",Transportation & Logistics,7193,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+151,Maria Lopez,BlueWave Logistics,"Express, Node.js, PostgreSQL, Django",Technology,7556,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+152,Juan Perez,Stellar Financial,"SQLite, Express, Vue.js, MySQL",Technology,2428,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+153,Carlos Fernandez,AeroSpace Dynamics,"MongoDB, PostgreSQL, Spring Boot",Agriculture,5933,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+154,Ricardo Martinez,Stellar Financial,"Vue.js, Spring Boot, SQLite",Venture Capital,6036,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+155,Maria Lopez,Stellar Financial,"React, C++, MySQL, Spring Boot",Healthcare,5310,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+156,Carlos Fernandez,Stellar Financial,"Spring Boot, Python, SQLite",Transportation & Logistics,6854,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+157,Maria Lopez,AeroSpace Dynamics,"Python, Java",Agriculture,2146,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+158,Javier Ramirez,EcoFusion Energy,"Django, React, MySQL, Spring Boot",Automotive,3054,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+159,Sofia Rodriguez,QuantumMed Innovations,"Django, Angular, Express",Technology,5612,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+160,Javier Ramirez,AeroSpace Dynamics,"Python, Vue.js",Renewable Energy,1816,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+161,Maria Lopez,EcoFusion Energy,"Angular, Node.js, PostgreSQL",Renewable Energy,2346,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+162,Sofia Rodriguez,GreenLeaf Organics,"Node.js, MongoDB",Aerospace,4460,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+163,Sofia Rodriguez,TechNova Solutions,"Spring Boot, Vue.js",Transportation & Logistics,4777,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+164,Juan Perez,Stellar Financial,"Spring Boot, Django",Healthcare,3342,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+165,Sofia Rodriguez,QuantumMed Innovations,"PostgreSQL, Java",Venture Capital,5424,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+166,Sofia Rodriguez,EcoFusion Energy,"SQLite, React",Venture Capital,4557,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+167,Ana Gomez,GreenLeaf Organics,"MongoDB, Django, Spring Boot, Python",Automotive,5415,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+168,Maria Lopez,Stellar Financial,"Vue.js, MySQL, C++, Python",Technology,5616,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+169,Javier Ramirez,AeroSpace Dynamics,"C++, Python, Angular",Finance,5282,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+170,Javier Ramirez,AeroSpace Dynamics,"C++, MySQL",Aerospace,1850,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+171,Carlos Fernandez,TechNova Solutions,"MySQL, Node.js, Python",Finance,5083,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+172,Sofia Rodriguez,Stellar Financial,"Spring Boot, Vue.js",Automotive,2610,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+173,Javier Ramirez,GreenLeaf Organics,"Django, Python, PostgreSQL, C++",Aerospace,7670,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+174,Juan Perez,AeroSpace Dynamics,"MongoDB, Java",Venture Capital,1570,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+175,Sofia Rodriguez,EcoFusion Energy,"Vue.js, PostgreSQL",Automotive,7188,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+176,Carlos Fernandez,GreenLeaf Organics,"C++, PostgreSQL, Angular",Venture Capital,6784,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+177,Juan Perez,GreenLeaf Organics,"React, MongoDB",Aerospace,4474,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+178,Ana Gomez,GreenLeaf Organics,"Angular, Python",Healthcare,3268,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+179,Juan Perez,GreenLeaf Organics,"MongoDB, Spring Boot",Venture Capital,5503,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+180,Juan Perez,Stellar Financial,"Django, Express, React, Java",Venture Capital,3192,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+181,Ana Gomez,AeroSpace Dynamics,"Spring Boot, Node.js",Finance,7580,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+182,Juan Perez,BlueWave Logistics,"Node.js, SQLite, MongoDB",Automotive,6360,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+183,Ana Gomez,TechNova Solutions,"Angular, React, Java",Renewable Energy,2232,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+184,Javier Ramirez,AeroSpace Dynamics,"Java, Vue.js, Django",Healthcare,4634,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+185,Ricardo Martinez,BlueWave Logistics,"Java, React, Express",Healthcare,7962,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+186,Ricardo Martinez,BlueWave Logistics,"Express, Node.js, React",Technology,5368,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+187,Ana Gomez,BlueWave Logistics,"Spring Boot, C++, Express",Venture Capital,6736,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+188,Sofia Rodriguez,TechNova Solutions,"PostgreSQL, MongoDB",Aerospace,3388,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+189,Sofia Rodriguez,TechNova Solutions,"Node.js, MySQL",Automotive,6784,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+190,Juan Perez,Stellar Financial,"Java, Angular, Node.js",Food Industry,3102,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+191,Ricardo Martinez,AeroSpace Dynamics,"Spring Boot, Java",Healthcare,5848,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+192,Ana Gomez,TechNova Solutions,"Java, SQLite, C++",Venture Capital,7296,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+193,Maria Lopez,BlueWave Logistics,"SQLite, React, MongoDB, Vue.js",Aerospace,1841,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+194,Ana Gomez,EcoFusion Energy,"Vue.js, Python, MySQL",Healthcare,7825,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+195,Ricardo Martinez,BlueWave Logistics,"PostgreSQL, MongoDB, Spring Boot, Node.js",Healthcare,7220,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+196,Ana Gomez,AeroSpace Dynamics,"Express, MySQL, C++",Food Industry,2325,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+197,Sofia Rodriguez,EcoFusion Energy,"React, Spring Boot",Agriculture,4193,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+198,Carlos Fernandez,BlueWave Logistics,"PostgreSQL, Vue.js, Node.js, Java",Healthcare,4322,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+199,Sofia Rodriguez,GreenLeaf Organics,"MongoDB, Java, Angular, Django",Renewable Energy,4484,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+200,Maria Lopez,QuantumMed Innovations,"PostgreSQL, C++, SQLite, MongoDB",Technology,5530,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+201,Carlos Fernandez,GreenLeaf Organics,"Vue.js, MySQL",Technology,3173,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+202,Carlos Fernandez,AeroSpace Dynamics,"MySQL, Spring Boot",Technology,2844,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+203,Maria Lopez,Stellar Financial,"Express, MongoDB, Node.js",Healthcare,6460,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+204,Ana Gomez,Stellar Financial,"SQLite, React, Spring Boot",Venture Capital,5521,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+205,Javier Ramirez,AeroSpace Dynamics,"Angular, Spring Boot, Python, MongoDB",Transportation & Logistics,2605,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+206,Sofia Rodriguez,AeroSpace Dynamics,"MongoDB, Vue.js, Node.js, C++",Healthcare,2243,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+207,Juan Perez,TechNova Solutions,"React, C++, PostgreSQL, Django",Aerospace,7869,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+208,Maria Lopez,QuantumMed Innovations,"C++, Java",Agriculture,4699,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+209,Carlos Fernandez,GreenLeaf Organics,"SQLite, Express, Vue.js",Automotive,5749,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+210,Sofia Rodriguez,QuantumMed Innovations,"PostgreSQL, Node.js, Python",Agriculture,2747,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+211,Ricardo Martinez,GreenLeaf Organics,"Node.js, Django, MongoDB",Healthcare,6632,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+212,Maria Lopez,TechNova Solutions,"Angular, Spring Boot, Express",Finance,2716,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+213,Carlos Fernandez,Stellar Financial,"Python, Spring Boot, Django",Finance,4133,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+214,Maria Lopez,AeroSpace Dynamics,"Vue.js, Spring Boot, Python",Automotive,7162,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+215,Ricardo Martinez,EcoFusion Energy,"Python, C++, Vue.js, PostgreSQL",Technology,3079,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+216,Juan Perez,TechNova Solutions,"Vue.js, Python",Food Industry,1647,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+217,Ricardo Martinez,BlueWave Logistics,"Angular, Django",Renewable Energy,3843,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+218,Maria Lopez,BlueWave Logistics,"Vue.js, Node.js",Technology,5242,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+219,Javier Ramirez,AeroSpace Dynamics,"C++, Angular, MongoDB, SQLite",Venture Capital,3334,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+220,Juan Perez,Stellar Financial,"Node.js, MongoDB",Renewable Energy,6785,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+221,Ricardo Martinez,AeroSpace Dynamics,"Express, MongoDB, C++",Food Industry,6271,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+222,Ricardo Martinez,TechNova Solutions,"Node.js, MongoDB, PostgreSQL, SQLite",Food Industry,5432,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+223,Sofia Rodriguez,Stellar Financial,"Node.js, C++",Aerospace,6880,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+224,Ana Gomez,BlueWave Logistics,"Node.js, Angular, C++",Renewable Energy,2198,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+225,Sofia Rodriguez,GreenLeaf Organics,"Django, Angular, SQLite",Healthcare,1598,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+226,Sofia Rodriguez,Stellar Financial,"React, MySQL, Spring Boot, Express",Food Industry,5462,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+227,Carlos Fernandez,EcoFusion Energy,"React, Django",Transportation & Logistics,7943,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+228,Ana Gomez,QuantumMed Innovations,"Node.js, Java",Transportation & Logistics,3778,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+229,Ana Gomez,Stellar Financial,"Angular, Java, Vue.js, Node.js",Automotive,5572,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+230,Maria Lopez,AeroSpace Dynamics,"Django, PostgreSQL, C++, MySQL",Agriculture,5263,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+231,Ricardo Martinez,TechNova Solutions,"Django, SQLite, Express, Node.js",Aerospace,6680,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+232,Carlos Fernandez,QuantumMed Innovations,"Express, Vue.js, React, Python",Automotive,2663,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+233,Javier Ramirez,Stellar Financial,"C++, MongoDB",Finance,2632,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+234,Ana Gomez,GreenLeaf Organics,"Django, Spring Boot",Aerospace,5603,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+235,Javier Ramirez,BlueWave Logistics,"Python, Node.js, SQLite, Vue.js",Agriculture,5015,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+236,Javier Ramirez,Stellar Financial,"Node.js, MongoDB",Automotive,1565,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+237,Juan Perez,QuantumMed Innovations,"Express, MongoDB, MySQL",Agriculture,4768,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+238,Juan Perez,EcoFusion Energy,"Express, Python, MongoDB",Renewable Energy,2886,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+239,Sofia Rodriguez,QuantumMed Innovations,"MySQL, SQLite, Spring Boot",Technology,4938,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+240,Ana Gomez,AeroSpace Dynamics,"Node.js, Java, PostgreSQL",Food Industry,3755,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+241,Ana Gomez,TechNova Solutions,"MongoDB, Java, Express",Technology,1568,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+242,Juan Perez,EcoFusion Energy,"Vue.js, PostgreSQL",Automotive,4877,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+243,Maria Lopez,TechNova Solutions,"PostgreSQL, Angular, MySQL",Venture Capital,6398,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+244,Juan Perez,TechNova Solutions,"Express, SQLite, Vue.js, Angular",Finance,5200,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+245,Maria Lopez,QuantumMed Innovations,"React, C++, Python, Java",Aerospace,4284,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+246,Maria Lopez,BlueWave Logistics,"Java, SQLite, Express, MongoDB",Venture Capital,2518,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+247,Juan Perez,BlueWave Logistics,"SQLite, Spring Boot",Automotive,6724,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+248,Ana Gomez,BlueWave Logistics,"Java, Spring Boot, Django",Food Industry,6349,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+249,Carlos Fernandez,BlueWave Logistics,"SQLite, MongoDB, PostgreSQL, Django",Renewable Energy,4533,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+250,Carlos Fernandez,BlueWave Logistics,"React, PostgreSQL, Vue.js",Food Industry,2820,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+251,Ricardo Martinez,TechNova Solutions,"Node.js, Express, C++",Transportation & Logistics,5263,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+252,Ricardo Martinez,EcoFusion Energy,"C++, SQLite, Spring Boot, MongoDB",Automotive,5865,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+253,Ricardo Martinez,AeroSpace Dynamics,"Python, Vue.js",Transportation & Logistics,4352,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+254,Ana Gomez,QuantumMed Innovations,"C++, Node.js",Technology,5736,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+255,Maria Lopez,GreenLeaf Organics,"Spring Boot, C++, Python",Automotive,5645,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+256,Maria Lopez,GreenLeaf Organics,"MySQL, Python, Angular, Django",Technology,5316,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+257,Ana Gomez,QuantumMed Innovations,"Java, Vue.js, Angular, React",Automotive,2173,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+258,Juan Perez,AeroSpace Dynamics,"Express, MySQL",Agriculture,2071,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+259,Javier Ramirez,QuantumMed Innovations,"PostgreSQL, Spring Boot, Express",Food Industry,4431,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+260,Ricardo Martinez,AeroSpace Dynamics,"Angular, Django",Agriculture,6958,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+261,Ana Gomez,GreenLeaf Organics,"MySQL, SQLite, Java",Food Industry,6604,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+262,Carlos Fernandez,Stellar Financial,"Express, Spring Boot, Angular, PostgreSQL",Healthcare,4918,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+263,Sofia Rodriguez,GreenLeaf Organics,"React, Django",Venture Capital,7766,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+264,Sofia Rodriguez,EcoFusion Energy,"Java, Python",Healthcare,4679,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+265,Carlos Fernandez,TechNova Solutions,"Python, Node.js, SQLite, MySQL",Automotive,3836,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+266,Ana Gomez,Stellar Financial,"Python, MySQL, Django, React",Renewable Energy,7628,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+267,Ricardo Martinez,Stellar Financial,"Node.js, MongoDB, C++",Technology,7767,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+268,Juan Perez,TechNova Solutions,"Python, Java",Renewable Energy,3963,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+269,Ana Gomez,Stellar Financial,"React, MySQL, Spring Boot, Express",Healthcare,4223,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+270,Carlos Fernandez,BlueWave Logistics,"Vue.js, SQLite",Food Industry,3339,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+271,Ana Gomez,BlueWave Logistics,"React, Django, Node.js",Technology,7751,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+272,Ricardo Martinez,Stellar Financial,"Node.js, SQLite",Automotive,5690,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+273,Javier Ramirez,QuantumMed Innovations,"Express, Angular, SQLite, C++",Technology,2195,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+274,Carlos Fernandez,EcoFusion Energy,"Vue.js, Angular",Automotive,6882,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+275,Javier Ramirez,BlueWave Logistics,"C++, Java, React",Food Industry,4162,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+276,Sofia Rodriguez,AeroSpace Dynamics,"Python, MySQL, SQLite, MongoDB",Food Industry,6943,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+277,Ricardo Martinez,GreenLeaf Organics,"Spring Boot, Angular, Vue.js, Django",Healthcare,3999,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+278,Maria Lopez,GreenLeaf Organics,"Python, MongoDB, Spring Boot, Angular",Renewable Energy,1807,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+279,Ricardo Martinez,AeroSpace Dynamics,"Express, Vue.js, Angular, PostgreSQL",Finance,7900,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+280,Ricardo Martinez,EcoFusion Energy,"React, Node.js, Vue.js",Technology,2890,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+281,Juan Perez,AeroSpace Dynamics,"Vue.js, Python",Aerospace,6586,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+282,Maria Lopez,QuantumMed Innovations,"MongoDB, PostgreSQL",Renewable Energy,4457,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+283,Maria Lopez,EcoFusion Energy,"SQLite, Vue.js, MySQL",Aerospace,4391,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+284,Javier Ramirez,GreenLeaf Organics,"Spring Boot, MongoDB",Automotive,5122,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+285,Juan Perez,QuantumMed Innovations,"PostgreSQL, React",Healthcare,6124,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+286,Carlos Fernandez,AeroSpace Dynamics,"Django, SQLite",Technology,7318,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+287,Maria Lopez,Stellar Financial,"SQLite, Java, PostgreSQL, Express",Healthcare,7461,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+288,Carlos Fernandez,GreenLeaf Organics,"MongoDB, PostgreSQL, React",Food Industry,4336,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+289,Ricardo Martinez,EcoFusion Energy,"Python, Java, Spring Boot, MySQL",Agriculture,6189,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+290,Ana Gomez,AeroSpace Dynamics,"SQLite, Vue.js",Technology,2736,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+291,Maria Lopez,GreenLeaf Organics,"Node.js, React, Angular",Technology,2864,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+292,Sofia Rodriguez,BlueWave Logistics,"Angular, SQLite",Finance,6082,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+293,Javier Ramirez,TechNova Solutions,"Express, PostgreSQL, Django",Finance,6570,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+294,Sofia Rodriguez,EcoFusion Energy,"Python, C++, Spring Boot, SQLite",Automotive,1555,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+295,Sofia Rodriguez,Stellar Financial,"Node.js, Angular",Technology,3300,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+296,Sofia Rodriguez,QuantumMed Innovations,"Django, Vue.js, C++",Venture Capital,7688,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+297,Ana Gomez,TechNova Solutions,"Angular, Node.js, Express",Agriculture,3290,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+298,Juan Perez,BlueWave Logistics,"Angular, React, SQLite",Food Industry,1643,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+299,Javier Ramirez,TechNova Solutions,"C++, MongoDB, Express",Finance,5577,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+300,Sofia Rodriguez,Stellar Financial,"C++, MySQL, Express",Aerospace,5415,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+301,Ana Gomez,GreenLeaf Organics,"Express, PostgreSQL",Food Industry,5022,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+302,Javier Ramirez,GreenLeaf Organics,"SQLite, Python, MongoDB, PostgreSQL",Renewable Energy,3535,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+303,Juan Perez,AeroSpace Dynamics,"MongoDB, React, SQLite",Agriculture,5394,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+304,Sofia Rodriguez,AeroSpace Dynamics,"Vue.js, Express",Aerospace,2079,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+305,Ricardo Martinez,BlueWave Logistics,"C++, PostgreSQL, Django, Node.js",Finance,4118,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+306,Sofia Rodriguez,GreenLeaf Organics,"Django, Angular, Python",Automotive,5287,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+307,Javier Ramirez,TechNova Solutions,"Angular, Python, Django, React",Food Industry,7346,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+308,Juan Perez,GreenLeaf Organics,"Vue.js, React, Java, Django",Finance,6491,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+309,Maria Lopez,QuantumMed Innovations,"C++, Angular, MongoDB",Transportation & Logistics,7932,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+310,Carlos Fernandez,EcoFusion Energy,"Java, SQLite, Spring Boot",Venture Capital,2923,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+311,Sofia Rodriguez,Stellar Financial,"Spring Boot, SQLite, Express, C++",Healthcare,5258,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+312,Ana Gomez,EcoFusion Energy,"Angular, MySQL, Express, Node.js",Transportation & Logistics,4988,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+313,Juan Perez,AeroSpace Dynamics,"MySQL, SQLite, Express, Spring Boot",Transportation & Logistics,4862,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+314,Maria Lopez,AeroSpace Dynamics,"Vue.js, React, SQLite, Express",Venture Capital,4555,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+315,Ricardo Martinez,GreenLeaf Organics,"Node.js, Java, MongoDB",Aerospace,7081,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+316,Ricardo Martinez,Stellar Financial,"C++, Vue.js",Healthcare,2138,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+317,Ana Gomez,TechNova Solutions,"MySQL, PostgreSQL",Agriculture,6039,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+318,Carlos Fernandez,AeroSpace Dynamics,"Node.js, MongoDB, React, Java",Technology,3851,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+319,Ricardo Martinez,Stellar Financial,"Express, Vue.js",Finance,6206,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+320,Carlos Fernandez,GreenLeaf Organics,"React, MongoDB, Django",Transportation & Logistics,4000,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+321,Maria Lopez,EcoFusion Energy,"Python, Spring Boot, Java",Automotive,2403,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+322,Javier Ramirez,AeroSpace Dynamics,"Django, MySQL, C++",Healthcare,3236,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+323,Maria Lopez,GreenLeaf Organics,"Spring Boot, MySQL",Renewable Energy,4192,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+324,Ana Gomez,GreenLeaf Organics,"MongoDB, Vue.js, Spring Boot, Python",Venture Capital,4512,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+325,Ana Gomez,EcoFusion Energy,"C++, React, Django, Node.js",Finance,4896,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+326,Ana Gomez,BlueWave Logistics,"MySQL, MongoDB, SQLite",Healthcare,4309,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+327,Sofia Rodriguez,QuantumMed Innovations,"PostgreSQL, Node.js, MySQL",Healthcare,3817,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+328,Sofia Rodriguez,BlueWave Logistics,"PostgreSQL, MongoDB",Healthcare,2278,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+329,Carlos Fernandez,QuantumMed Innovations,"React, Django, Python",Venture Capital,2872,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+330,Ana Gomez,Stellar Financial,"C++, Node.js, Spring Boot",Venture Capital,1944,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+331,Javier Ramirez,QuantumMed Innovations,"Django, Express, Angular, MySQL",Venture Capital,7592,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+332,Ana Gomez,TechNova Solutions,"Python, SQLite, Angular",Agriculture,4676,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+333,Maria Lopez,AeroSpace Dynamics,"Node.js, Java, Spring Boot, Django",Food Industry,6217,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+334,Javier Ramirez,EcoFusion Energy,"SQLite, MongoDB, Django, Python",Transportation & Logistics,5865,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+335,Maria Lopez,EcoFusion Energy,"PostgreSQL, MySQL, Python, Node.js",Renewable Energy,4377,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+336,Javier Ramirez,BlueWave Logistics,"MySQL, Express, Python, Angular",Venture Capital,7720,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+337,Ana Gomez,BlueWave Logistics,"SQLite, React, MongoDB, Java",Venture Capital,3498,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+338,Ana Gomez,QuantumMed Innovations,"Spring Boot, Node.js",Renewable Energy,2121,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+339,Ana Gomez,AeroSpace Dynamics,"Spring Boot, MySQL",Finance,3706,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+340,Juan Perez,QuantumMed Innovations,"Python, Express",Automotive,3994,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+341,Carlos Fernandez,AeroSpace Dynamics,"C++, Django",Healthcare,5940,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+342,Javier Ramirez,BlueWave Logistics,"SQLite, MongoDB, PostgreSQL, React",Finance,7938,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+343,Carlos Fernandez,BlueWave Logistics,"Express, PostgreSQL",Automotive,6875,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+344,Maria Lopez,AeroSpace Dynamics,"Node.js, Express",Venture Capital,5921,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+345,Maria Lopez,BlueWave Logistics,"Spring Boot, PostgreSQL, Express",Aerospace,7294,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+346,Ricardo Martinez,GreenLeaf Organics,"React, PostgreSQL, Java",Finance,7787,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+347,Ana Gomez,TechNova Solutions,"React, PostgreSQL, SQLite, Spring Boot",Automotive,7632,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+348,Ricardo Martinez,GreenLeaf Organics,"Angular, MongoDB",Finance,2793,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+349,Juan Perez,GreenLeaf Organics,"MySQL, Java, SQLite, Angular",Healthcare,2063,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+350,Carlos Fernandez,AeroSpace Dynamics,"MySQL, Django",Healthcare,4153,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+351,Ana Gomez,GreenLeaf Organics,"Express, Node.js, Python",Technology,1680,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+352,Ana Gomez,QuantumMed Innovations,"C++, MySQL",Renewable Energy,3738,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+353,Sofia Rodriguez,Stellar Financial,"MongoDB, Express, Django",Automotive,7993,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+354,Juan Perez,GreenLeaf Organics,"Java, Vue.js, Node.js, MongoDB",Renewable Energy,2708,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+355,Carlos Fernandez,AeroSpace Dynamics,"React, PostgreSQL, Java",Renewable Energy,1772,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+356,Ricardo Martinez,BlueWave Logistics,"MongoDB, React, PostgreSQL, MySQL",Finance,3083,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+357,Maria Lopez,Stellar Financial,"Java, Node.js",Technology,4963,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+358,Ricardo Martinez,QuantumMed Innovations,"React, MongoDB, Express",Automotive,5200,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+359,Javier Ramirez,TechNova Solutions,"MongoDB, React, PostgreSQL",Renewable Energy,3783,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+360,Javier Ramirez,TechNova Solutions,"Django, Python, Angular",Healthcare,5804,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+361,Carlos Fernandez,EcoFusion Energy,"SQLite, Express, PostgreSQL",Renewable Energy,4657,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+362,Ana Gomez,AeroSpace Dynamics,"Spring Boot, Java, SQLite, Node.js",Finance,6518,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+363,Javier Ramirez,EcoFusion Energy,"C++, Angular",Aerospace,4326,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+364,Ricardo Martinez,QuantumMed Innovations,"React, Python, Django",Agriculture,1679,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+365,Javier Ramirez,AeroSpace Dynamics,"Express, React, PostgreSQL, Python",Finance,5881,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+366,Maria Lopez,QuantumMed Innovations,"MongoDB, MySQL, Vue.js",Finance,3603,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+367,Sofia Rodriguez,AeroSpace Dynamics,"C++, MySQL, Vue.js, Express",Aerospace,2666,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+368,Carlos Fernandez,QuantumMed Innovations,"Spring Boot, React, Django",Venture Capital,3091,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+369,Maria Lopez,Stellar Financial,"Java, Angular",Agriculture,5770,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+370,Sofia Rodriguez,GreenLeaf Organics,"Angular, MySQL",Renewable Energy,3018,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+371,Javier Ramirez,Stellar Financial,"MySQL, SQLite, MongoDB",Automotive,1670,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+372,Carlos Fernandez,BlueWave Logistics,"Django, Vue.js, Angular, Spring Boot",Finance,1799,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+373,Sofia Rodriguez,EcoFusion Energy,"MongoDB, Angular",Aerospace,5002,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+374,Ricardo Martinez,TechNova Solutions,"React, Angular, Java",Technology,5287,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+375,Javier Ramirez,TechNova Solutions,"Node.js, Django, MySQL",Venture Capital,5873,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+376,Sofia Rodriguez,EcoFusion Energy,"MongoDB, Angular, C++, Python",Venture Capital,3647,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+377,Ricardo Martinez,BlueWave Logistics,"Python, Express, React",Automotive,1684,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+378,Carlos Fernandez,GreenLeaf Organics,"React, Vue.js",Food Industry,6688,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+379,Maria Lopez,GreenLeaf Organics,"Vue.js, Express, PostgreSQL, Spring Boot",Healthcare,2739,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+380,Sofia Rodriguez,TechNova Solutions,"Java, Python, Django",Venture Capital,4613,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+381,Juan Perez,GreenLeaf Organics,"Node.js, Django, React",Renewable Energy,3673,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+382,Ricardo Martinez,GreenLeaf Organics,"Vue.js, C++, MongoDB, Angular",Food Industry,7051,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+383,Ana Gomez,Stellar Financial,"MySQL, Vue.js, Node.js",Finance,5689,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+384,Carlos Fernandez,QuantumMed Innovations,"Vue.js, Express, SQLite, Java",Food Industry,1788,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+385,Maria Lopez,GreenLeaf Organics,"SQLite, Angular, Express",Food Industry,7312,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+386,Javier Ramirez,QuantumMed Innovations,"SQLite, Express",Healthcare,7583,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+387,Sofia Rodriguez,GreenLeaf Organics,"Spring Boot, PostgreSQL, C++, Angular",Agriculture,7286,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+388,Sofia Rodriguez,TechNova Solutions,"React, Angular",Automotive,5935,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+389,Ricardo Martinez,TechNova Solutions,"PostgreSQL, Python",Technology,5213,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+390,Sofia Rodriguez,Stellar Financial,"Vue.js, Angular, MySQL",Technology,5642,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+391,Juan Perez,Stellar Financial,"Node.js, SQLite, Vue.js",Healthcare,7704,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+392,Javier Ramirez,QuantumMed Innovations,"Java, React",Agriculture,7755,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+393,Javier Ramirez,AeroSpace Dynamics,"Vue.js, MySQL, MongoDB",Healthcare,4208,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+394,Javier Ramirez,AeroSpace Dynamics,"Django, PostgreSQL, MySQL, C++",Agriculture,3485,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+395,Sofia Rodriguez,TechNova Solutions,"Angular, SQLite, Vue.js",Food Industry,7139,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+396,Ana Gomez,TechNova Solutions,"C++, Django, Python, PostgreSQL",Venture Capital,4201,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+397,Javier Ramirez,AeroSpace Dynamics,"PostgreSQL, Django, MongoDB, React",Transportation & Logistics,1521,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+398,Ricardo Martinez,TechNova Solutions,"C++, Vue.js, Python",Agriculture,3815,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+399,Ricardo Martinez,Stellar Financial,"Spring Boot, Node.js",Automotive,1698,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+400,Juan Perez,BlueWave Logistics,"Express, PostgreSQL",Food Industry,6371,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+401,Javier Ramirez,AeroSpace Dynamics,"Java, MySQL",Agriculture,5474,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+402,Maria Lopez,QuantumMed Innovations,"Express, MongoDB",Technology,7051,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+403,Juan Perez,Stellar Financial,"Spring Boot, C++, Java",Finance,3251,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+404,Carlos Fernandez,AeroSpace Dynamics,"Node.js, SQLite",Agriculture,7280,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+405,Maria Lopez,GreenLeaf Organics,"Python, MongoDB, Express, MySQL",Transportation & Logistics,5664,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+406,Ana Gomez,BlueWave Logistics,"Express, Java, Angular",Healthcare,5026,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+407,Ricardo Martinez,GreenLeaf Organics,"Spring Boot, Java",Venture Capital,3854,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+408,Carlos Fernandez,GreenLeaf Organics,"Spring Boot, Express, Java",Healthcare,5997,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+409,Maria Lopez,AeroSpace Dynamics,"MongoDB, Java",Automotive,5640,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+410,Ricardo Martinez,AeroSpace Dynamics,"Angular, Python, MongoDB",Finance,1874,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+411,Juan Perez,EcoFusion Energy,"PostgreSQL, Spring Boot, Django",Finance,4251,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+412,Juan Perez,TechNova Solutions,"Node.js, C++, Spring Boot",Finance,5980,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+413,Juan Perez,TechNova Solutions,"Java, Spring Boot, SQLite",Aerospace,3363,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+414,Ricardo Martinez,EcoFusion Energy,"MySQL, MongoDB, Java",Technology,1748,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+415,Javier Ramirez,GreenLeaf Organics,"C++, MySQL, Python",Venture Capital,5243,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+416,Ana Gomez,Stellar Financial,"MongoDB, Python",Finance,3295,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+417,Maria Lopez,QuantumMed Innovations,"C++, PostgreSQL, MySQL, React",Agriculture,6954,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+418,Ricardo Martinez,Stellar Financial,"Vue.js, Spring Boot, Java, MongoDB",Automotive,3854,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+419,Juan Perez,Stellar Financial,"PostgreSQL, SQLite, MongoDB",Finance,3198,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+420,Sofia Rodriguez,Stellar Financial,"Angular, React, MySQL, Django",Finance,7419,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+421,Carlos Fernandez,TechNova Solutions,"Angular, Python, Spring Boot, PostgreSQL",Automotive,3926,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+422,Juan Perez,Stellar Financial,"MySQL, PostgreSQL, Python",Finance,5570,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+423,Carlos Fernandez,Stellar Financial,"Angular, Vue.js, React",Finance,7555,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+424,Ricardo Martinez,AeroSpace Dynamics,"React, PostgreSQL, MongoDB",Food Industry,3388,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+425,Ricardo Martinez,GreenLeaf Organics,"Express, SQLite, Angular, PostgreSQL",Transportation & Logistics,1685,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+426,Sofia Rodriguez,AeroSpace Dynamics,"PostgreSQL, Python, SQLite, Spring Boot",Finance,4545,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+427,Sofia Rodriguez,AeroSpace Dynamics,"C++, Node.js, SQLite",Food Industry,7929,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+428,Ricardo Martinez,GreenLeaf Organics,"C++, Java, Node.js, SQLite",Automotive,7916,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+429,Maria Lopez,AeroSpace Dynamics,"Python, Express, C++, Spring Boot",Food Industry,5354,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+430,Maria Lopez,EcoFusion Energy,"SQLite, C++, Django",Aerospace,2634,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+431,Sofia Rodriguez,BlueWave Logistics,"Python, Angular, PostgreSQL",Venture Capital,5537,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+432,Sofia Rodriguez,TechNova Solutions,"Vue.js, C++, MongoDB, Django",Venture Capital,4613,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+433,Ricardo Martinez,QuantumMed Innovations,"Angular, C++, PostgreSQL",Healthcare,2777,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+434,Ana Gomez,AeroSpace Dynamics,"SQLite, MongoDB, Vue.js, Node.js",Finance,4163,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+435,Ana Gomez,EcoFusion Energy,"Java, Vue.js, MongoDB, Spring Boot",Healthcare,6022,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+436,Juan Perez,QuantumMed Innovations,"React, MongoDB, SQLite",Automotive,4044,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+437,Ana Gomez,QuantumMed Innovations,"SQLite, Django, Angular",Agriculture,4420,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+438,Juan Perez,GreenLeaf Organics,"MySQL, Java, PostgreSQL, Spring Boot",Transportation & Logistics,3709,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+439,Ana Gomez,EcoFusion Energy,"PostgreSQL, Spring Boot, C++, SQLite",Renewable Energy,7986,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+440,Javier Ramirez,BlueWave Logistics,"Spring Boot, SQLite, Angular",Finance,7810,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+441,Sofia Rodriguez,QuantumMed Innovations,"Spring Boot, Django, Vue.js",Food Industry,5434,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+442,Ana Gomez,QuantumMed Innovations,"SQLite, Java, PostgreSQL",Aerospace,6172,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+443,Javier Ramirez,Stellar Financial,"PostgreSQL, React, Java",Technology,5705,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+444,Carlos Fernandez,EcoFusion Energy,"Spring Boot, Python, Express, React",Healthcare,6907,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+445,Maria Lopez,TechNova Solutions,"Java, C++, MySQL, SQLite",Finance,3547,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+446,Carlos Fernandez,AeroSpace Dynamics,"SQLite, C++",Agriculture,1865,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+447,Maria Lopez,AeroSpace Dynamics,"Django, MySQL",Transportation & Logistics,2702,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+448,Juan Perez,TechNova Solutions,"MongoDB, Django, Express, React",Renewable Energy,2274,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+449,Ricardo Martinez,EcoFusion Energy,"Vue.js, Python",Food Industry,3515,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+450,Ricardo Martinez,TechNova Solutions,"MySQL, Java",Aerospace,4774,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+451,Maria Lopez,Stellar Financial,"MySQL, Vue.js, Node.js, PostgreSQL",Aerospace,2516,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+452,Sofia Rodriguez,EcoFusion Energy,"C++, SQLite",Agriculture,5545,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+453,Ricardo Martinez,AeroSpace Dynamics,"Angular, Express",Agriculture,7679,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+454,Sofia Rodriguez,AeroSpace Dynamics,"Express, Java",Aerospace,7165,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+455,Maria Lopez,AeroSpace Dynamics,"Spring Boot, SQLite",Renewable Energy,3576,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+456,Carlos Fernandez,Stellar Financial,"MongoDB, Python",Finance,7702,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+457,Juan Perez,GreenLeaf Organics,"Node.js, MySQL",Venture Capital,3996,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+458,Ricardo Martinez,BlueWave Logistics,"PostgreSQL, Python, MySQL, Spring Boot",Technology,7111,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+459,Ana Gomez,QuantumMed Innovations,"Node.js, Spring Boot",Finance,2146,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+460,Maria Lopez,QuantumMed Innovations,"Express, Node.js, Java, Angular",Agriculture,5079,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+461,Carlos Fernandez,TechNova Solutions,"SQLite, Vue.js, Angular, PostgreSQL",Finance,7599,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+462,Carlos Fernandez,QuantumMed Innovations,"MongoDB, C++, Angular",Technology,7729,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+463,Carlos Fernandez,BlueWave Logistics,"React, Vue.js",Renewable Energy,7781,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+464,Ana Gomez,EcoFusion Energy,"SQLite, Express",Technology,2779,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+465,Maria Lopez,Stellar Financial,"Django, PostgreSQL, Java, Angular",Renewable Energy,4403,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+466,Sofia Rodriguez,EcoFusion Energy,"Django, PostgreSQL, Python",Healthcare,2093,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+467,Juan Perez,BlueWave Logistics,"Spring Boot, Angular",Finance,3524,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+468,Sofia Rodriguez,GreenLeaf Organics,"SQLite, MySQL, Vue.js",Food Industry,3188,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+469,Carlos Fernandez,BlueWave Logistics,"MongoDB, Spring Boot, Express, PostgreSQL",Venture Capital,2449,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+470,Ana Gomez,TechNova Solutions,"Vue.js, MySQL",Agriculture,3102,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+471,Maria Lopez,EcoFusion Energy,"PostgreSQL, Angular, C++",Aerospace,2291,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+472,Maria Lopez,BlueWave Logistics,"PostgreSQL, Django, C++",Agriculture,7749,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+473,Carlos Fernandez,BlueWave Logistics,"Spring Boot, Express",Transportation & Logistics,2678,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+474,Sofia Rodriguez,BlueWave Logistics,"Vue.js, MySQL, Django, React",Renewable Energy,6205,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+475,Sofia Rodriguez,AeroSpace Dynamics,"Angular, Spring Boot, Node.js, MongoDB",Automotive,2755,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+476,Ana Gomez,GreenLeaf Organics,"Java, SQLite, PostgreSQL, Spring Boot",Venture Capital,7149,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+477,Juan Perez,BlueWave Logistics,"Angular, Python, Node.js, Django",Automotive,2244,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+478,Ana Gomez,TechNova Solutions,"React, MySQL",Agriculture,4525,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+479,Sofia Rodriguez,AeroSpace Dynamics,"C++, Vue.js, SQLite",Technology,2618,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+480,Ana Gomez,Stellar Financial,"Django, PostgreSQL, Vue.js",Healthcare,2429,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+481,Javier Ramirez,EcoFusion Energy,"Django, Angular",Food Industry,5076,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+482,Carlos Fernandez,TechNova Solutions,"Node.js, MongoDB",Aerospace,5265,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+483,Ana Gomez,Stellar Financial,"MySQL, Express",Healthcare,5492,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+484,Javier Ramirez,TechNova Solutions,"Python, Node.js",Transportation & Logistics,4826,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+485,Javier Ramirez,BlueWave Logistics,"Python, SQLite",Healthcare,5639,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+486,Javier Ramirez,AeroSpace Dynamics,"Java, Angular, Express, React",Finance,7397,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+487,Juan Perez,TechNova Solutions,"Express, Angular, Vue.js, MongoDB",Venture Capital,4438,"1. Backend Development
+2. Machine Learning
+3. Data Science
+4. API Development","['Backend Development', 'Machine Learning', 'Data Science', 'API Development']"
+488,Carlos Fernandez,EcoFusion Energy,"Python, PostgreSQL, Java, Vue.js",Automotive,3102,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+489,Javier Ramirez,QuantumMed Innovations,"Spring Boot, Java, Python",Healthcare,7753,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+490,Ricardo Martinez,EcoFusion Energy,"Node.js, C++, SQLite, PostgreSQL",Transportation & Logistics,5645,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+491,Sofia Rodriguez,GreenLeaf Organics,"Python, Spring Boot, Java, MySQL",Food Industry,5483,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+492,Ana Gomez,QuantumMed Innovations,"React, PostgreSQL",Healthcare,5259,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+493,Ricardo Martinez,Stellar Financial,"Angular, Vue.js, Spring Boot, PostgreSQL",Food Industry,4091,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+494,Javier Ramirez,Stellar Financial,"MongoDB, Angular",Food Industry,4785,"1. Fullstack Web Development
+2. Frontend Development
+3. Backend Development
+4. Database Management","['Fullstack Web Development', 'Frontend Development', 'Backend Development', 'Database Management']"
+495,Juan Perez,QuantumMed Innovations,"Express, Python, Vue.js, Java",Transportation & Logistics,6521,"1. React Framework
+2. Frontend Development
+3. State Management
+4. JavaScript Libraries","['React Framework', 'Frontend Development', 'State Management', 'JavaScript Libraries']"
+496,Sofia Rodriguez,GreenLeaf Organics,"SQLite, Angular, Vue.js",Transportation & Logistics,4745,"1. Database Management
+2. NoSQL Databases
+3. Backend Development
+4. Data Modeling","['Database Management', 'NoSQL Databases', 'Backend Development', 'Data Modeling']"
+497,Javier Ramirez,EcoFusion Energy,"MongoDB, Express, Django",Venture Capital,3523,"1. Java Programming
+2. Backend Development
+3. Object-Oriented Programming
+4. Web Development","['Java Programming', 'Backend Development', 'Object-Oriented Programming', 'Web Development']"
+498,Javier Ramirez,TechNova Solutions,"Angular, SQLite",Renewable Energy,4169,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
+499,Ricardo Martinez,QuantumMed Innovations,"SQLite, Express, React",Transportation & Logistics,3094,"1. Backend Development
+2. Express.js
+3. API Development
+4. Database Management","['Backend Development', 'Express.js', 'API Development', 'Database Management']"
