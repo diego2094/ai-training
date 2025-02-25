@@ -5,7 +5,7 @@ spark = SparkSession.builder \
     .appName("Large Dataset Processing") \
     .getOrCreate()
 
-file_path = "experts_profile_large.csv"
+file_path = "employees_large.csv"
 
 df = spark.read.csv(file_path, header=True, inferSchema=True)
 

@@ -21,7 +21,7 @@ def handle_numeric_outliers(column, threshold=1.5):
     print(column.clip(lower_bound, upper_bound))
     return column.clip(lower_bound, upper_bound)
 
-file_path = "experts_profile.csv"
+file_path = "employees.csv"
 df = pd.read_csv(file_path)
 df.drop_duplicates(inplace=True)
 df['Name'].fillna('unknown name', inplace=True)
@@ -35,6 +35,6 @@ df['Processed_CV_list'].fillna('unknown processed CV list', inplace=True)
 text_columns = ['Name', 'Partner', 'Industry']
 for column in text_columns:
     df[column] = df[column].apply(clean_text)
-output_file_path = "experts_profile_cleaned.csv"
+output_file_path = "employees_cleaned.csv"
 df.to_csv(output_file_path, index=False)
 print(f"Cleaned dataset saved to {output_file_path}")

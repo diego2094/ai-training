@@ -3,3 +3,10 @@ boto3
 nltk
 dask
 pyspark
+openai
+transformers
+sentence-transformers
+faiss-cpu
+matplotlib
+fastapi
+uvicorn

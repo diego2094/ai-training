@@ -40,10 +40,10 @@ for _ in range(500):
     rows.append(generate_row())
 
 # Write data to CSV (without ID column)
-with open('experts_profile_large.csv', 'w', newline='', encoding='utf-8') as file:
+with open('employees_large.csv', 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow(["Name", "Partner", "Technologies", "Industry", "Salary", "Processed_CV", "Processed_CV_list"])  # Header row
     for idx, row in enumerate(rows, start=0):
         writer.writerow([idx] + row)  # Add row number at the beginning
 
-print("CSV file 'experts_profile_large.csv' created with 500 rows.")
+print("CSV file 'employees_large.csv' created with 500 rows.")

@@ -69,15 +69,15 @@ def upload_to_s3(bucket_name, file_name, s3_key):
 
 if __name__ == "__main__":
 
-    db_path = "experts_profile.db"
+    db_path = "employees.db"
 
-    query = "SELECT * FROM experts_profile"
+    query = "SELECT * FROM employees"
 
-    local_csv = "experts_profile_data.csv"
+    local_csv = "employees.csv"
 
     bucket_name = "ai-testing-temp"
 
-    s3_key = "ingested_data/experts_profile_data.csv"
+    s3_key = "ingested_data/employees_data.csv"
 
     data = fetch_data_from_db(db_path, query)
 

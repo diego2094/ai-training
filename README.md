@@ -8,7 +8,7 @@ Additionally, it includes utilities that you can use to generate datasets on you
 
 ## Try it out
 
-As mentioned above, two datasets are already provided with the data needed to test all the lesson solutions. For the first module, you will need an `experts_profile.db` file. A Python script called `csv-to-db-py` is provided to generate this file from the CSV data. Simply run `python csv-to-db-py` to generate it.
+As mentioned above, two datasets are already provided with the data needed to test all the lesson solutions. For the first module, you will need an `employees.db` file. A Python script called `csv-to-db-py` is provided to generate this file from the CSV data. Simply run `python csv-to-db-py` to generate it.
 For the third lesson of the second module, a large dataset is required. We have provided one as part of this repository, but there's also a Python script that you can run to generate a new one with as many rows as you'd like. To do so, set the number of rows you want to generate in `generate_large_dataset.py` and run the script with `python generate_large_dataset.py`.
 
 To begin testing the solutions, a `requirements.txt` file is included with all the dependencies you need for these modules. Run `pip install -r requirements.txt` to install them.
@@ -17,7 +17,7 @@ Then, you can run the solutions using Python to check the results for each of th
 
 For the first module, you will need to:
 
-  - Generate the `experts_profile.db` file as mentioned above.
+  - Generate the `employees.db` file as mentioned above.
   - Create an AWS account if you don't already have one and add your credentials to `~/.aws/credentials` (or manually export the environment variables into your console).
 
 For the second module, you will need to:

@@ -1,6 +1,6 @@
 import sqlite3
 
-db_path = "experts_profile.db"
+db_path = "employees.db"
 
 connection = sqlite3.connect(db_path)
 
@@ -12,7 +12,7 @@ tables = cursor.fetchall()
 
 print("Tables in the database:", tables)
 
-table_name = "experts_profile"
+table_name = "employees"
 
 cursor.execute(f"PRAGMA table_info({table_name});")
 

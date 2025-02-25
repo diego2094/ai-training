@@ -2,8 +2,8 @@ import csv
 import sqlite3
 
 # CSV and SQLite paths
-csv_file = 'experts_profile.csv'  # Your CSV file
-db_file = 'experts_profile.db'    # SQLite database file
+csv_file = 'employees.csv'  # Your CSV file
+db_file = 'employees.db'    # SQLite database file
 
 # Connect to SQLite database (it will create the file if it doesn't exist)
 conn = sqlite3.connect(db_file)
@@ -15,7 +15,7 @@ with open(csv_file, 'r', newline='', encoding='utf-8') as f:
     
     # Get the column names and remove the index column (first column)
     columns = csv_reader.fieldnames[1:]  # Skip the first 'index' column
-    create_table_query = f"CREATE TABLE IF NOT EXISTS experts_profile ({', '.join([f'{col} TEXT' for col in columns])});"
+    create_table_query = f"CREATE TABLE IF NOT EXISTS employees ({', '.join([f'{col} TEXT' for col in columns])});"
     cursor.execute(create_table_query)
 
     # Insert rows into the table
@@ -25,7 +25,7 @@ with open(csv_file, 'r', newline='', encoding='utf-8') as f:
         
         # Prepare the INSERT query with placeholders for values
         placeholders = ', '.join(['?' for _ in columns])  # Use '?' as placeholders
-        insert_query = f"INSERT INTO experts_profile ({', '.join(columns)}) VALUES ({placeholders})"
+        insert_query = f"INSERT INTO employees ({', '.join(columns)}) VALUES ({placeholders})"
         
         # Execute the insert query
         cursor.execute(insert_query, row_data)
