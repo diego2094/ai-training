@@ -17,10 +17,12 @@ Then, you can run the solutions using Python to check the results for each of th
 
 For the first module, you will need to:
 
-  - Generate the `employees.db` file as mentioned above.
-  - Create an AWS account if you don't already have one and add your credentials to `~/.aws/credentials` (or manually export the environment variables into your console).
+- Generate the `employees.db` file as mentioned above.
+- Create an AWS account if you don't already have one and add your credentials to `~/.aws/credentials` (or manually export the environment variables into your console).
 
 For the second module, you will need to:
 
-  - Have the large dataset ready. You can use the one provided or generate one using `generate_large_dataset.py`.
-  - For the PySpark part of the third lesson in the second module, you will need to have Java installed.
+- Have the large dataset ready. You can use the one provided or generate one using `generate_large_dataset.py`.
+- For the PySpark part of the third lesson in the second module, you will need to have Java installed.
+
+For the new modules you will need to have a credit card assign to your OpenAI account in ourder to use the embeddings API. Otherwise, you can use HuggingFace which is a free alternative.
