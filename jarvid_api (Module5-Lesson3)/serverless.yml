@@ -1,0 +1,12 @@
+service: jarvid-api
+
+provider:
+  name: aws
+  runtime: python3.9
+  region: us-east-1
+
+functions:
+  api:
+    image:
+      name: jarvid-api
+      uri: <your_ecr_repository_uri>

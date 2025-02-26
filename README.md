@@ -25,4 +25,14 @@ For the second module, you will need to:
 - Have the large dataset ready. You can use the one provided or generate one using `generate_large_dataset.py`.
 - For the PySpark part of the third lesson in the second module, you will need to have Java installed.
 
-For the new modules you will need to have a credit card assign to your OpenAI account in ourder to use the embeddings API. Otherwise, you can use HuggingFace which is a free alternative.
+For the new modules, you will need to have a credit card assigned to your OpenAI account in order to use the embeddings API. Alternatively, you can use Hugging Face, which is a free alternative.
+
+For the OpenAI completions API, `gpt-3.5-turbo` has been used instead of `text-davinci-003`. As a result, in Module 6, Lesson 1, the responses are not exactly the same because the 3.5 model elaborates a bit more on the responses. If you want them to match, you'll need to change `test_cases.csv` to expect the correct response.
+
+In Module 6, Lesson 3, you will be asked to run Grafana. If you downloaded it as suggested on their homepage, you might encounter issues when running it because it's not part of your PATH. If that's the case, here are the steps to follow:
+
+- Edit your `.zshrc` and add `export PATH="$HOME/grafana-v11.5.2/bin:$PATH"`, then apply it in the terminal you are using with source `~/.zshrc`.
+- At this point, it will find the `grafana-server` command, but it might still complain about the home path not being set. To fix this, add `export GF_PATHS_HOME="$HOME/grafana-v11.5.2"` to your `.zshrc` and apply it with source `~/.zshrc`.
+- However, that might still not be enough to run it just with `grafana-server`; you may need to run it with `grafana server --homepath "$GF_PATHS_HOME"`.
+- The solution I found was to create an alias to simplify the command. You can add `alias grafana='grafana server --homepath="$GF_PATHS_HOME"'` to your `.zshrc` and apply it.
+- Now, you can run Grafana directly with the command `grafana`.

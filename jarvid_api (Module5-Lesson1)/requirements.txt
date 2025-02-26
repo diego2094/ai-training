@@ -4,3 +4,4 @@ pydantic
 openai
 faiss-cpu
 numpy
+prometheus_client

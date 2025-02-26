@@ -29,7 +29,8 @@ response = client.embeddings.create(
     input=text,
     model="text-embedding-ada-002"
 )
-embedding = response['data'][0]['embedding']
+
+embedding = response.data[0].embedding
 
 print("\nGenerated Embedding:")
 print(embedding[:10])

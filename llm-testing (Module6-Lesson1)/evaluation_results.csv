@@ -1,0 +1,6 @@
+Query,Expected Response,Actual Response,Relevance,Accuracy,Fluency
+What is the capital of France?," ""Paris""",Paris,3,3,3
+Explain Newton's First Law.," ""An object in motion stays in motion unless acted upon by an external force.""","Newton's First Law of Motion states that an object will remain at rest or in uniform motion unless acted upon by an external force. In other words, an object will continue to stay still if it is stationary, or keep moving in a straight line at a constant speed if it is already in motion, until an external force is applied to it. This law is also known as the law of inertia, as it describes how objects tend to resist changes in their state of motion.",3,3,5
+Who wrote 'Pride and Prejudice'?," ""Jane Austen""",Jane Austen,3,3,3
+Translate 'hello' to Spanish.," ""hola""",hola,3,3,3
+Summarize the plot of 'Hamlet'.," ""A tragedy by William Shakespeare about Prince Hamlet seeking revenge for his father's murder.""","'Hamlet' is a tragedy by William Shakespeare that follows the Prince of Denmark as he seeks to avenge his father's murder at the hands of his uncle Claudius. As Hamlet feigns madness, he sets in motion a series of events that lead to betrayal, madness, and ultimately death. The play explores themes of revenge, betrayal, and the complexity of human nature.",3,3,3

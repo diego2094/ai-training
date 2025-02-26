@@ -10,3 +10,4 @@ faiss-cpu
 matplotlib
 fastapi
 uvicorn
+tqdm

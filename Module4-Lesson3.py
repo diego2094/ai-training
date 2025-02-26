@@ -11,13 +11,17 @@ structured_prompt = f"Summarize the following text into three concise bullet poi
 
 context_driven_prompt = f"Summarize this report into actionable insights for our team:\n{sample_text}"
 
+client = openai.OpenAI()
+
 def generate_response(prompt):
-    response = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt=prompt,
+    response = openai.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "user", "content": prompt}
+        ],
         max_tokens=100
     )
-    return response['choices'][0]['text'].strip()
+    return response.choices[0].message.content.strip()
 
 print("Basic Prompt Response:")
 print(generate_response(basic_prompt))
@@ -38,6 +42,8 @@ instructional_qa_prompt = f"Use the context below to determine the best person f
 
 print("Basic QA Prompt Response:")
 print(generate_response(basic_qa_prompt))
+
+contextual_qa_prompt = f"Context: {context}\n\n{query}"
 
 print("\nContextual QA Prompt Response:")
 print(generate_response(contextual_qa_prompt))
