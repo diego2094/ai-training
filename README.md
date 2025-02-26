@@ -36,3 +36,5 @@ In Module 6, Lesson 3, you will be asked to run Grafana. If you downloaded it as
 - However, that might still not be enough to run it just with `grafana-server`; you may need to run it with `grafana server --homepath "$GF_PATHS_HOME"`.
 - The solution I found was to create an alias to simplify the command. You can add `alias grafana='grafana server --homepath="$GF_PATHS_HOME"'` to your `.zshrc` and apply it.
 - Now, you can run Grafana directly with the command `grafana`.
+
+For this module we used the jarvid-api created for Module5-Lesson1
