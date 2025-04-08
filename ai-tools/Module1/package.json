@@ -1,0 +1,12 @@
+{
+  "name": "second-assistant-demo",
+  "version": "1.0.0",
+  "description": "A small project to test a second AI coding assistant by adding a new feature.",
+  "main": "notesManager.js",
+  "scripts": {
+    "start": "node notesManager.js"
+  },
+  "keywords": [],
+  "author": "TuNombre",
+  "license": "ISC"
+}
