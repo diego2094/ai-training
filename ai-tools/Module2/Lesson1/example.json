@@ -1,0 +1,98 @@
+{
+  "module": 2,
+  "lesson": "Deep Dive into Advanced Code Assistant Tools",
+  "activities": [
+    {
+      "id": "1",
+      "title": "Hands-On Activity: Comparar dos Asistentes de Código",
+      "goal": "Comparar cómo dos asistentes distintos generan y refactorizan código.",
+      "steps": [
+        {
+          "stepId": "1.1",
+          "title": "Elección de las herramientas",
+          "description": "Seleccionar dos asistentes de código (por ejemplo, GitHub Copilot + Cursor, o CodeWhisperer + Tabnine) que soporten tu lenguaje de preferencia.",
+          "instructions": [
+            "Revisar la compatibilidad con el lenguaje o framework (Node.js, Python, etc.).",
+            "Asegurarte de que ambos asistentes puedan instalarse en el mismo editor/IDE."
+          ],
+          "notes": "No olvides verificar que ambas herramientas estén disponibles en tu entorno de desarrollo preferido."
+        },
+        {
+          "stepId": "1.2",
+          "title": "Configurar el entorno de desarrollo",
+          "description": "Instalar ambos asistentes en un único IDE (VS Code, JetBrains, etc.).",
+          "instructions": [
+            "En VS Code: Haz clic en el ícono de Extensiones (barra lateral izquierda).",
+            "Busca la primera herramienta (ejemplo: 'GitHub Copilot') e instálala.",
+            "Busca la segunda herramienta (ejemplo: 'Tabnine') e instálala.",
+            "Verifica que ambas estén habilitadas.",
+            "Si usas JetBrains (IntelliJ, PyCharm), ve a Settings → Plugins y realiza un proceso similar."
+          ],
+          "notes": "Algunas extensiones requieren reiniciar el IDE para activarse correctamente."
+        },
+        {
+          "stepId": "1.3",
+          "title": "Crear un proyecto de demostración",
+          "description": "Crear un proyecto mínimo para probar las funcionalidades de cada asistente.",
+          "instructions": [
+            "Crea una carpeta llamada user-login-demo (o el nombre que prefieras).",
+            "Crea el archivo principal para la lógica de login (login.js, login.py, etc.)."
+          ],
+          "notes": "El objetivo es tener una base sencilla para implementar un feature pequeño y luego extenderlo."
+        },
+        {
+          "stepId": "1.4",
+          "title": "Implementar una función de login con el primer asistente",
+          "description": "Usar el primer asistente para generar el código inicial de un login básico.",
+          "instructions": [
+            "Escribe comentarios explicando qué debe hacer la función (por ejemplo, userLogin).",
+            "Deja que el asistente proponga el cuerpo de la función o genera un snippet con su ayuda.",
+            "Ejemplo de requerimientos: si username='alice' y password='secret', retornar 'Login successful', de lo contrario 'Invalid credentials'."
+          ],
+          "sampleCode": {
+            "language": "javascript",
+            "code": "// login.js\n\n// Requerimientos:\n// - Si usuario='alice' y contraseña='secret', retornar \"Login successful\"\n// - Si no, retornar \"Invalid credentials\"\n\nfunction userLogin(username, password) {\n  if (username === 'alice' && password === 'secret') {\n    return \"Login successful\";\n  }\n  return \"Invalid credentials\";\n}\n\nconsole.log(userLogin('alice', 'secret')); // Debe mostrar: 'Login successful'\nconsole.log(userLogin('bob', 'pass123')); // Debe mostrar: 'Invalid credentials'\n"
+          },
+          "notes": "Puedes adaptar el ejemplo a tu lenguaje favorito (Python, Java, etc.)."
+        },
+        {
+          "stepId": "1.5",
+          "title": "Refactorizar o extender con el segundo asistente",
+          "description": "Desactiva el primer asistente y usa el segundo para añadir mejoras: manejo de contraseñas con hashing, listas de usuarios, etc.",
+          "instructions": [
+            "Pausa o deshabilita la extensión o plugin del primer asistente.",
+            "Agrega comentarios en tu código explicando la mejora deseada (por ejemplo, incorporar bcrypt o sessions).",
+            "Observa cómo el segundo asistente genera o propone el nuevo código."
+          ],
+          "sampleCode": {
+            "language": "javascript",
+            "code": "// Ejemplo con bcrypt para el segundo asistente\n\nconst bcrypt = require('bcryptjs');\n\nlet users = [\n  { username: 'alice', password: '$2a$10$xyz...hashedSecret' }, // Contraseña ya hasheada\n  { username: 'bob', password: '$2a$10$xyz...hashedPass123' }\n];\n\nasync function userLogin(username, password) {\n  const user = users.find(u => u.username === username);\n  if (!user) {\n    return \"Invalid credentials\";\n  }\n  // Compara la contraseña hasheada\n  const match = await bcrypt.compare(password, user.password);\n  if (match) {\n    return \"Login successful\";\n  } else {\n    return \"Invalid credentials\";\n  }\n}\n"
+          },
+          "notes": "Este snippet es ilustrativo; el segundo asistente podría generar una versión distinta."
+        },
+        {
+          "stepId": "1.6",
+          "title": "Probar el resultado final y comparar experiencias",
+          "description": "Ejecuta la aplicación y verifica que ambas partes (código del primer asistente y refactor del segundo) funcionen.",
+          "instructions": [
+            "Si usas Node.js, corre `node login.js` para probar la lógica.",
+            "Si implementaste un endpoint en Express/Flask, haz la petición HTTP para comprobar la respuesta de login.",
+            "Anota o discute qué diferencias notaste en la forma en que cada asistente te ayudó."
+          ],
+          "notes": "Este paso es importante para la parte de reflexión y comparación de herramientas."
+        },
+        {
+          "stepId": "1.7",
+          "title": "Conclusiones y reflexiones",
+          "description": "Documento final con las ventajas y desventajas de cada asistente.",
+          "instructions": [
+            "Comenta si uno fue más rápido o más preciso.",
+            "Destaca qué asistente se adapta más a tu estilo de codificación.",
+            "Anota posibles limitaciones o escenarios donde uno se desempeñó mejor que el otro."
+          ],
+          "notes": "Puedes usar este análisis para decidir cuál se integra mejor en tu flujo de trabajo."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "module": 2,
+  "lesson": "Advanced Techniques — Prompt Engineering, Documentation-First & Vibe Coding (Assignment)",
+  "assignment": {
+    "title": "With More Coding!",
+    "description": "Crear 3-4 prompts distintos para un mismo microservicio, documentando cada interacción con la AI en PROMPT_LOG.md.",
+    "objective": "Dominar el prompt engineering probando diferentes tipos de instrucciones y estilos (doc-driven vs. vibe coding).",
+    "steps": [
+      {
+        "stepId": "1",
+        "title": "Set Up or Reuse Your Microservice",
+        "description": "Abre el proyecto existente o crea uno nuevo y confía en que tu asistente AI esté habilitado.",
+        "instructions": [
+          "Asegúrate de tener un repositorio Git o folder local para hacer seguimiento de cambios.",
+          "Si ya tienes el microservicio desde la Hands-On anterior, úsalo de base para esta asignación."
+        ],
+        "notes": "Lo ideal es partir del microservicio que hiciste en la Hands-On de la misma Lesson 2."
+      },
+      {
+        "stepId": "2",
+        "title": "Decide on 3 or 4 Objectives (Prompts)",
+        "description": "Determina cuáles serán tus 3-4 peticiones específicas a la AI. Ejemplos: generar unit tests, refactor de seguridad, documentación en Markdown, y/o nueva funcionalidad vía vibe coding.",
+        "instructions": [
+          "Anota internamente (o en un breve doc) cuáles prompts harás.",
+          "Ejemplos concretos: 'Generar pruebas unitarias con Jest', 'Refactor para seguridad con tokens de sesión', 'Crear documentación de uso en Markdown', 'Nueva feature con vibe coding'."
+        ],
+        "notes": "Estos objetivos marcarán cada uno de los prompts que vas a probar."
+      },
+      {
+        "stepId": "3",
+        "title": "Write Each Prompt & Observe the AI’s Response",
+        "description": "Para cada uno de los 3-4 prompts, coloca el texto exacto en tu código o comentarios y deja que la AI genere una respuesta.",
+        "instructions": [
+          "Prompt #1 (Unit Tests): 'Generate Jest unit tests for the createUser function, covering edge cases like missing fields or invalid email.'",
+          "Prompt #2 (Refactor Security): 'Refactor the /login endpoint to improve security...' ",
+          "Prompt #3 (Create Usage Docs): 'Write a Markdown usage guide for the /users and /login endpoints...' ",
+          "Prompt #4 (Vibe Coding Feature): 'Add a /reports endpoint that returns user stats...' "
+        ],
+        "notes": "Cada prompt debe ser **claro y específico**. Observa cómo responde la AI y toma notas."
+      },
+      {
+        "stepId": "4",
+        "title": "Log Everything in PROMPT_LOG.md",
+        "description": "Crear un archivo PROMPT_LOG.md donde anotarás el prompt exacto, la salida de la AI y cualquier modificación manual que hiciste.",
+        "instructions": [
+          "Crea PROMPT_LOG.md en la raíz del proyecto.",
+          "Para cada Prompt #n, escribe: 'Exact Wording', 'AI Output' (código parcial o total), 'Manual Edits'.",
+          "Ejemplo:\n\n```markdown\n## Prompt #1: Generate Unit Tests\n**Exact Wording**: \"Generate Jest unit tests for the 'createUser' function...\"\n\n**AI Output**:\n```js\n// ...\n```\n\n**Manual Edits**:\n- Ajusté el mock para el módulo X.\n- Cambié la descripción del test.\n```"
+        ],
+        "sampleCode": {
+          "filename": "PROMPT_LOG.md",
+          "language": "markdown",
+          "code": "# PROMPT LOG\n\n## Prompt #1: Generate Unit Tests\n**Exact Wording**:\n\"Generate Jest unit tests for the 'createUser' function...\"\n\n**AI Output**:\n```js\n// Tests generados por la AI\n```\n\n**Manual Edits**:\n- Reescribí ciertas partes porque...\n\n---\n\n## Prompt #2: Refactor for Security\n**Exact Wording**:\n\"Refactor the /login endpoint...\"\n\n**AI Output**:\n```js\n// Código sugerido por la AI\n```\n\n**Manual Edits**:\n- Ajusté el uso de jsonwebtoken...\n"
+        },
+        "notes": "Este archivo servirá como bitácora de la interacción con la IA, demostrando tus pasos y decisiones."
+      },
+      {
+        "stepId": "5",
+        "title": "Incorporate AI’s Output into the Codebase",
+        "description": "Integra los cambios sugeridos por la AI en tu microservicio real. Haz commits individuales si lo deseas.",
+        "instructions": [
+          "Por cada snippet que te guste, pégalo en el archivo correspondiente (app.js, tests/*.test.js, etc.).",
+          "Si hubo errores o partes incompletas, corrígelas y anota esas correcciones en PROMPT_LOG.md."
+        ],
+        "notes": "Así mantienes un registro claro de lo que propuso la IA y cómo quedó finalmente tu código."
+      },
+      {
+        "stepId": "6",
+        "title": "Push or Share Your Final Code",
+        "description": "Realiza un push a tu repo Git o comprime el folder en un zip para compartirlo.",
+        "instructions": [
+          "Ejemplo: `git add . && git commit -m \"Add AI-driven code via 3 distinct prompts\" && git push`",
+          "Incluye **PROMPT_LOG.md** y cualquier archivo que la AI haya modificado o agregado (test files, doc files, etc.)."
+        ],
+        "notes": "Asegúrate de que tu proyecto compile o corra correctamente después de los cambios."
+      },
+      {
+        "stepId": "7",
+        "title": "Review & Wrap Up",
+        "description": "Reflexiona sobre la experiencia: ¿qué tan exitosos fueron tus prompts? ¿La AI generó código adecuado? ¿Las modificaciones manuales fueron muchas o pocas?",
+        "instructions": [
+          "Verifica si los tests generados corren satisfactoriamente (`npm test` si usas Jest).",
+          "Revisa si el refactor de seguridad realmente mejoró la protección de tokens/contraseñas.",
+          "Observa la documentación generada: ¿está clara para otros desarrolladores?",
+          "Evalúa la espontaneidad de la feature vibe-coded."
+        ],
+        "notes": "Con estos resultados, podrás mejorar tu técnica de prompt engineering y tu flujo doc-driven/vibe coding."
+      }
+    ]
+  }
+}

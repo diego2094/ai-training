@@ -1,0 +1,90 @@
+{
+  "module": 2,
+  "lesson": "Deep Dive into Advanced Code Assistant Tools (Assignment)",
+  "assignment": {
+    "title": "With More Coding!",
+    "description": "Agregar una tercera funcionalidad a tu proyecto y usar ambos asistentes para ver cómo se complementan.",
+    "objective": "Ganar experiencia usando múltiples asistentes de código para un feature adicional y documentar los hallazgos.",
+    "steps": [
+      {
+        "stepId": "1",
+        "title": "Revisitar tu Proyecto Existente",
+        "description": "Abrir el repositorio o carpeta usada en la Hands-On Activity, que ya cuenta con dos funcionalidades: una creada con el primer asistente y otra con el segundo.",
+        "instructions": [
+          "Asegúrate de que ambos asistentes (Copilot, Cursor, Tabnine, CodeWhisperer, etc.) estén instalados y habilitados.",
+          "Verifica que las funcionalidades anteriores (endpoints o funciones) sigan funcionando correctamente."
+        ],
+        "notes": "Este paso te garantiza que tu entorno se encuentra operativo antes de añadir la nueva característica."
+      },
+      {
+        "stepId": "2",
+        "title": "Planear la Tercera Funcionalidad o Endpoint",
+        "description": "Definir cuál será la nueva característica que vas a implementar. Ejemplos: Ruta de 'forgot password' o función de analítica de datos.",
+        "instructions": [
+          "Elige algo que sea distinto a las dos funcionalidades previas y que aporte valor al proyecto.",
+          "Si usas Node.js con Express, podrías añadir un nuevo endpoint; si usas Python/Flask, podrías crear una nueva ruta o función."
+        ],
+        "notes": "La idea es ampliar el proyecto con una característica adicional que permita observar el desempeño de ambos asistentes en un escenario diferente."
+      },
+      {
+        "stepId": "3",
+        "title": "Usar Ambos Asistentes, Alternando según Necesidad",
+        "description": "Emplear un asistente para la generación inicial del código (Assistant A) y el otro para refactorizar o añadir lógica avanzada (Assistant B).",
+        "instructions": [
+          "Inicia con Assistant A para crear el esqueleto de la nueva funcionalidad (comentarios, imports, rutas, etc.).",
+          "Deshabilita Assistant A y habilita Assistant B para la parte de refactor o integración con librerías avanzadas (email, hashing, etc.).",
+          "Puedes volver a cambiar de asistente si lo requieres, tomando nota de cómo se complementan (o se estorban)."
+        ],
+        "notes": "En algunos editores, podrías tener que desactivar uno manualmente para evitar que sus sugerencias choquen con las del otro."
+      },
+      {
+        "stepId": "4",
+        "title": "Mantener Notas y Observaciones",
+        "description": "Registrar qué asistente es mejor en ciertas tareas (generación rápida vs. sugerencias más robustas).",
+        "instructions": [
+          "Observa la velocidad de respuesta y la precisión de cada herramienta.",
+          "Fíjate si hay conflictos cuando ambos están activos a la vez.",
+          "Evalúa la calidad del código propuesto: ¿cumple con el estilo, buenas prácticas, manejo de errores?"
+        ],
+        "notes": "Estos apuntes serán valiosos para la documentación final en `COMPARISON.md`."
+      },
+      {
+        "stepId": "5",
+        "title": "Finalizar la Tercera Funcionalidad",
+        "description": "Una vez que la lógica esté completa, prueba el nuevo endpoint o función para asegurar que todo compila y se ejecuta sin problemas.",
+        "instructions": [
+          "Si es una ruta en Express, haz un `curl` o usa Postman para probarla.",
+          "Si es una función, realiza un test rápido (unit test o console.log) para verificar la salida.",
+          "Asegúrate de que no rompiste las funcionalidades anteriores."
+        ],
+        "notes": "La idea es que tu proyecto siga funcionando de manera integral, con las nuevas y viejas características en armonía."
+      },
+      {
+        "stepId": "6",
+        "title": "Documentar los Hallazgos en COMPARISON.md",
+        "description": "Crear un archivo `COMPARISON.md` y describir cómo fue la experiencia de usar dos asistentes simultáneamente.",
+        "instructions": [
+          "Incluye quién generó código más rápido, quién sugirió mejores refactorizaciones, y cualquier conflicto al usar ambos.",
+          "Sigue el ejemplo propuesto para la estructura de `COMPARISON.md` (Conclusiones, Observaciones, etc.).",
+          "Sube o comparte el archivo para que otros puedan revisar."
+        ],
+        "sampleCode": {
+          "language": "markdown",
+          "code": "# Comparison of Multiple Code Assistants\n\n**Third Functionality**: \"Forgot password\" (example)\n\n- **Assistant A**: Rápido en generar la ruta base y estructura.\n- **Assistant B**: Muy eficiente en proponer hashing de tokens y validaciones.\n\n## Observations\n- **Speed of New Code**: A ganó en velocidad.\n- **Refactoring / Enhancements**: B ofreció mejores controles de error.\n- **Conflicts**: Hubo superposición de sugerencias cuando ambos estaban activos.\n\n## Conclusion\n- A para iniciar scaffolding.\n- B para refactor/seguridad.\n"
+        },
+        "notes": "Este archivo debe estar en la raíz de tu proyecto y reflejar tus experiencias concretas."
+      },
+      {
+        "stepId": "7",
+        "title": "Commit y Compartir",
+        "description": "Si estás usando Git, haz commit de los cambios en el repositorio (nueva funcionalidad + COMPARISON.md).",
+        "instructions": [
+          "Agrega y comitea los cambios: `git add . && git commit -m \"Add third endpoint with AI assistants and COMPARISON.md\"`",
+          "Realiza push al repositorio remoto: `git push origin main` (o la rama que uses).",
+          "Invita a tus compañeros a revisar la documentación en `COMPARISON.md`."
+        ],
+        "notes": "El compartir tu experiencia puede ayudar a otros a entender las fortalezas y debilidades de cada asistente."
+      }
+    ]
+  }
+}

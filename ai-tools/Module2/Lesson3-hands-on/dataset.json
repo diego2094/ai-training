@@ -1,0 +1,84 @@
+{
+  "module": 2,
+  "lesson": "Benchmarks, Evaluations & Adoption Decisions (Hands-On Activity)",
+  "activity": {
+    "title": "Implementar un Test Harness y Evaluar el Código Generado por la IA",
+    "description": "Crear y ejecutar un conjunto de pruebas automatizadas (unit/integration) sobre el microservicio, registrar la tasa de éxito y anotar si el código de IA requirió fixes manuales.",
+    "goal": "Obtener un indicador cuantitativo sobre la solidez del código generado/refinado por la IA.",
+    "steps": [
+      {
+        "stepId": "1",
+        "title": "Set Up Your Testing Framework",
+        "description": "Instala Jest (o el framework de test de tu preferencia) y configúralo en package.json.",
+        "instructions": [
+          "Ejecuta npm install --save-dev jest (o mocha, jasmine, pytest, etc.).",
+          "Agrega el script 'test' en package.json para correr Jest.",
+          "Verifica que tu proyecto esté listo para ejecutar npm test."
+        ],
+        "notes": "Aquí asumimos que ya cuentas con Node.js y npm instalados."
+      },
+      {
+        "stepId": "2",
+        "title": "Identify the Code to Test",
+        "description": "Selecciona las funciones o endpoints clave (creados en lecciones previas) que probarás con Jest.",
+        "instructions": [
+          "Si tu lógica está en un solo archivo (app.js), expórtala si es necesario.",
+          "Si usas rutas separadas, enfoca las pruebas en lo que sea crítico (p. ej., userLogin, /users, /login)."
+        ],
+        "notes": "El objetivo es testear el código que la IA te ayudó a crear o refinar."
+      },
+      {
+        "stepId": "3",
+        "title": "Create a Test File",
+        "description": "Genera un archivo (por ejemplo __tests__/app.test.js) y configura pruebas unitarias o de integración.",
+        "instructions": [
+          "Importa tu aplicación o funciones (app, userLogin, etc.).",
+          "Si pruebas endpoints de Express, usa supertest para simular requests.",
+          "Haz una primera prueba simple (ej.: que /users retorne status 200)."
+        ],
+        "notes": "La convención en Jest es usar .test.js o .spec.js para los archivos de prueba."
+      },
+      {
+        "stepId": "4",
+        "title": "Ask Your Code Assistant to Generate/Improve Tests",
+        "description": "Usa comentarios o prompts directos para que la IA sugiera pruebas adicionales (validación de campos, error handling, etc.).",
+        "instructions": [
+          "Agrega un comentario tipo: // Por favor, genera pruebas para userLogin con credenciales válidas e inválidas.",
+          "Revisa las sugerencias que la IA genere y adáptalas si no coinciden con tu lógica.",
+          "Podrías pedirle pruebas de integración (GET /users, POST /users, etc.) con JWT."
+        ],
+        "notes": "Aquí es donde evalúas si la IA entiende correctamente tu código y produce tests coherentes."
+      },
+      {
+        "stepId": "5",
+        "title": "Run the Tests",
+        "description": "Ejecuta npm test en tu terminal y observa cuántas pruebas pasan/fallan.",
+        "instructions": [
+          "Si falla alguna, determina si el error está en el test o en la implementación.",
+          "Corrige la lógica o ajusta la prueba según corresponda."
+        ],
+        "notes": "Documenta en un archivo (TEST_RESULTS.md) el número de tests que pasaron/ fallaron inicialmente."
+      },
+      {
+        "stepId": "6",
+        "title": "Document Pass/Fail Results",
+        "description": "Crea TEST_RESULTS.md (o actualiza uno existente) con un breve resumen de los resultados de tus pruebas y fixes manuales.",
+        "instructions": [
+          "Por ejemplo: '3 de 4 pruebas pasaron al primer intento. Ajusté el manejador de error en userLogin para que coincida con el test'.",
+          "Incorpora capturas si quieres un historial detallado, o manténlo textual."
+        ],
+        "notes": "La idea es medir qué tan confiable fue el código sugerido por la IA y cuánto tuviste que retocarlo."
+      },
+      {
+        "stepId": "7",
+        "title": "Wrap Up",
+        "description": "Listo: has implementado un test harness, aprovechando la IA para generar/ refinar pruebas, y tienes resultados concretos de su eficacia.",
+        "instructions": [
+          "Comparte tu repo o archivo comprimido con el microservicio + las pruebas + TEST_RESULTS.md.",
+          "Destaca tus hallazgos en cuanto a pass/fail rate y cualquier fix crítico que debiste hacer."
+        ],
+        "notes": "Con esto cierras el ciclo de evaluar el código de IA con indicadores cuantitativos."
+      }
+    ]
+  }
+}

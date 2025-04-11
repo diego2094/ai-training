@@ -1,0 +1,93 @@
+{
+  "module": 2,
+  "lesson": "Benchmarks, Evaluations & Adoption Decisions (Assignment)",
+  "assignment": {
+    "title": "With More Coding!",
+    "description": "Diseñar un mini-benchmark para medir tiempos, cantidad de líneas y tests con/sin la ayuda de AI en 2-3 tareas típicas.",
+    "objective": "Evaluar, con evidencia cuantitativa, qué enfoque (o asistente) conviene adoptar para ciertas tareas de un microservicio.",
+    "steps": [
+      {
+        "stepId": "1",
+        "title": "Choose 2–3 Typical Tasks",
+        "description": "Seleccionar 2-3 tareas que reflejen uso real del microservicio (nuevos endpoints, refactors de auth, optimizaciones).",
+        "instructions": [
+          "Ejemplo A: Agregar /reports para data agregada.",
+          "Ejemplo B: Refactor de auth para tokens.",
+          "Ejemplo C: Optimizar consultas a DB."
+        ],
+        "notes": "Las tareas no deben ser tan grandes que no puedas terminarlas, ni tan pequeñas que no requieran código."
+      },
+      {
+        "stepId": "2",
+        "title": "Define Your Benchmark Approach",
+        "description": "Decidir cómo medirás el tiempo y la calidad (tests, pass/fail).",
+        "instructions": [
+          "Puedes hacerlo manualmente (cronómetro) o con un script que registre inicio/fin.",
+          "Si comparas 2 asistentes, haz la misma tarea con cada uno. O haz manual vs. AI."
+        ],
+        "notes": "Mantén consistencia en cómo mides tiempo, líneas de código y resultados de pruebas."
+      },
+      {
+        "stepId": "3",
+        "title": "Prepare a Minimal 'Stopwatch' or Time-Logging Method",
+        "description": "Define cómo anotarás tiempos, commits, o lines-of-code. Puede ser en un Excel, un notepad o un script.",
+        "instructions": [
+          "Cada vez que empieces una tarea: registra la hora/minuto/segundo.",
+          "Cuando termines (tests pasen o feature se complete), registra el tiempo final.",
+          "Anota LOC (opcional) y el número de tests o coverage si tienes un test harness."
+        ],
+        "notes": "Este paso te dará datos para comparar con la implementación asistida."
+      },
+      {
+        "stepId": "4",
+        "title": "Perform Task #1 Without AI Assistance",
+        "description": "Implementar la primera tarea sin usar ninguna sugerencia AI (o con Assistant #1).",
+        "instructions": [
+          "Registra el tiempo total, LOC y resultados de pruebas (pass/fail).",
+          "Haz commits o crea un branch separado para esta implementación si quieres histórico limpio."
+        ],
+        "notes": "El chiste es tener una base de referencia (control) frente a la versión AI."
+      },
+      {
+        "stepId": "5",
+        "title": "Perform Task #1 With AI Assistance",
+        "description": "Restaura tu código al estado inicial (o usa un branch nuevo) e implementa la misma tarea con tu AI Assistant.",
+        "instructions": [
+          "Registra nuevamente el tiempo, LOC, y si la AI generó test code automáticamente.",
+          "Compara luego con la versión manual."
+        ],
+        "notes": "Puedes hacer la misma tarea con Copilot, Tabnine, CodeWhisperer, etc., y contrastar."
+      },
+      {
+        "stepId": "6",
+        "title": "Repeat for Task #2 and (Optionally) Task #3",
+        "description": "Haz lo mismo si tienes 2 o 3 tareas: manual vs. AI, o AI vs. AI.",
+        "instructions": [
+          "Cada tarea debe tener su time tracking y pass/fail de tests.",
+          "Aplica la misma metodología para asegurar datos comparables."
+        ],
+        "notes": "Esto te dará un panorama más amplio de qué tan útil es la AI en distintos escenarios."
+      },
+      {
+        "stepId": "7",
+        "title": "Document Everything in BENCHMARK_REPORT.md",
+        "description": "Crea un archivo con la descripción de las tareas, los tiempos, LOC, coverage, conclusiones y recomendaciones.",
+        "instructions": [
+          "Sigue el formato sugerido: tabla con Task, Approach, Time, LOC, Tests Passing, etc.",
+          "Cierra con una recomendación final de adopción (qué asistente usar, en qué casos, etc.)."
+        ],
+        "notes": "Este reporte muestra tu evaluación técnica basada en evidencia."
+      },
+      {
+        "stepId": "8",
+        "title": "Share or Push Your Codebase",
+        "description": "Sube el código final (en sus distintas versiones o branches) y el BENCHMARK_REPORT.md a tu repo.",
+        "instructions": [
+          "Ejemplo: git add . && git commit -m 'Add AI benchmark results' && git push",
+          "Invita a tus compañeros a revisar y comentar en el repo."
+        ],
+        "notes": "Con esto cierras la práctica, demostrando tus hallazgos sobre la adopción o no de AI para tu proyecto."
+      }
+    ]
+  }
+}
